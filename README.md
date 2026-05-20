@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/amalshad/DailyLeet/tree/main/0136-single-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 <!---LeetCode Topics End-->
