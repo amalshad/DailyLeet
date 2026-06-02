@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/amalshad/DailyLeet/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/amalshad/DailyLeet/tree/main/2469-convert-the-temperature/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
