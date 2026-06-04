@@ -3,11 +3,16 @@
  * @return {number}
  */
 var returnToBoundaryCount = function(nums) {
-    let count=0
-    let sum=0
-    for(let i=0;i<nums.length;i++){
-        sum+=nums[i]
-        if(sum===0&&i!=0) count++;
+    let position = 0;
+    let count = 0;
+
+    for (let num of nums) {
+        position += num;
+
+        if (position === 0) {
+            count++;
+        }
     }
+
     return count;
 };
