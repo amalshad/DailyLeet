@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0709-to-lower-case](https://github.com/amalshad/DailyLeet/tree/main/0709-to-lower-case/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalshad/DailyLeet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
