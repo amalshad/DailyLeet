@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/amalshad/DailyLeet/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/amalshad/DailyLeet/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalshad/DailyLeet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/amalshad/DailyLeet/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/amalshad/DailyLeet/tree/main/1929-concatenation-of-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/amalshad/DailyLeet/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
