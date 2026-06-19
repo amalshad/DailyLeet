@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amalshad/DailyLeet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/amalshad/DailyLeet/tree/main/1470-shuffle-the-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/amalshad/DailyLeet/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
