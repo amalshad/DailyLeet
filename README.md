@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/amalshad/DailyLeet/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/amalshad/DailyLeet/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/amalshad/DailyLeet/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amalshad/DailyLeet/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -100,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amalshad/DailyLeet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
