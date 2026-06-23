@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/amalshad/DailyLeet/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amalshad/DailyLeet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/amalshad/DailyLeet/tree/main/1470-shuffle-the-array/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/amalshad/DailyLeet/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/amalshad/DailyLeet/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/amalshad/DailyLeet/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/amalshad/DailyLeet/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/amalshad/DailyLeet/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/amalshad/DailyLeet/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/amalshad/DailyLeet/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
@@ -109,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/amalshad/DailyLeet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/amalshad/DailyLeet/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Matrix
@@ -146,5 +151,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
