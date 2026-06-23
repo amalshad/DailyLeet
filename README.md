@@ -36,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/amalshad/DailyLeet/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/amalshad/DailyLeet/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amalshad/DailyLeet/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/amalshad/DailyLeet/tree/main/0012-integer-to-roman/) | Medium |
+| [0125-valid-palindrome](https://github.com/amalshad/DailyLeet/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/amalshad/DailyLeet/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/amalshad/DailyLeet/tree/main/1108-defanging-an-ip-address/) | Easy |
