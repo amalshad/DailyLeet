@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/amalshad/DailyLeet/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/amalshad/DailyLeet/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
