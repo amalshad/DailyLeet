@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/amalshad/DailyLeet/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/amalshad/DailyLeet/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/amalshad/DailyLeet/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/amalshad/DailyLeet/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/amalshad/DailyLeet/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
