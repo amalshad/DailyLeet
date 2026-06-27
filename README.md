@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/amalshad/DailyLeet/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/amalshad/DailyLeet/tree/main/2427-number-of-common-factors/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/amalshad/DailyLeet/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Matrix
