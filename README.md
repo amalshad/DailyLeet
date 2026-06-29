@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1929-concatenation-of-array](https://github.com/amalshad/DailyLeet/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amalshad/DailyLeet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/amalshad/DailyLeet/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalshad/DailyLeet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amalshad/DailyLeet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/amalshad/DailyLeet/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/amalshad/DailyLeet/tree/main/3612-process-string-with-special-operations-i/) | Medium |
