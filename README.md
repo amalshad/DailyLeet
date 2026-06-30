@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/amalshad/DailyLeet/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/amalshad/DailyLeet/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1534-count-good-triplets](https://github.com/amalshad/DailyLeet/tree/main/1534-count-good-triplets/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/amalshad/DailyLeet/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/amalshad/DailyLeet/tree/main/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/amalshad/DailyLeet/tree/main/2427-number-of-common-factors/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Sorting
