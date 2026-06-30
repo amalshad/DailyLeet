@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/amalshad/DailyLeet/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/amalshad/DailyLeet/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/amalshad/DailyLeet/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/amalshad/DailyLeet/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/amalshad/DailyLeet/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/amalshad/DailyLeet/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/amalshad/DailyLeet/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
