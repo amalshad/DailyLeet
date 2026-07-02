@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/amalshad/DailyLeet/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/amalshad/DailyLeet/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/amalshad/DailyLeet/tree/main/0048-rotate-image/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/amalshad/DailyLeet/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amalshad/DailyLeet/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
