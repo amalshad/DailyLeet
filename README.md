@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amalshad/DailyLeet/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/amalshad/DailyLeet/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/amalshad/DailyLeet/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/amalshad/DailyLeet/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/amalshad/DailyLeet/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/amalshad/DailyLeet/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/amalshad/DailyLeet/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/amalshad/DailyLeet/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amalshad/DailyLeet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/amalshad/DailyLeet/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
