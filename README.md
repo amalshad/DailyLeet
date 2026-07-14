@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amalshad/DailyLeet/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amalshad/DailyLeet/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/amalshad/DailyLeet/tree/main/3945-digit-frequency-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/amalshad/DailyLeet/tree/main/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/amalshad/DailyLeet/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3945-digit-frequency-score](https://github.com/amalshad/DailyLeet/tree/main/3945-digit-frequency-score/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
