@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/amalshad/DailyLeet/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amalshad/DailyLeet/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -233,4 +234,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/amalshad/DailyLeet/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/amalshad/DailyLeet/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/amalshad/DailyLeet/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
