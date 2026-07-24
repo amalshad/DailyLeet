@@ -3,11 +3,11 @@
  * @return {number}
  */
 var reverseDegree = function(s) {
-    let sum =0
+    let ans = 0;
 
-    for(let i=0;i<s.length;i++){
-        sum+=(26-(s[i].charCodeAt(0)-97))*(i+1)
+    for (let i = 1; i <= s.length; i++) {
+        let reverseValue = 26 - (s.charCodeAt(i - 1) - 97);
+        ans += reverseValue * i;
     }
-
-    return sum
-};
+    return ans;
+};;
