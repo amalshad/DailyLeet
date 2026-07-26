@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/amalshad/DailyLeet/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/amalshad/DailyLeet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/amalshad/DailyLeet/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/amalshad/DailyLeet/tree/main/1470-shuffle-the-array/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/amalshad/DailyLeet/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/amalshad/DailyLeet/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/amalshad/DailyLeet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/amalshad/DailyLeet/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/amalshad/DailyLeet/tree/main/2235-add-two-integers/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/amalshad/DailyLeet/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/amalshad/DailyLeet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/amalshad/DailyLeet/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
