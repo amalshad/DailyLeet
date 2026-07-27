@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/amalshad/DailyLeet/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/amalshad/DailyLeet/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/amalshad/DailyLeet/tree/main/3028-ant-on-the-boundary/) | Easy |
