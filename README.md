@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/amalshad/DailyLeet/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/amalshad/DailyLeet/tree/main/2469-convert-the-temperature/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/amalshad/DailyLeet/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/amalshad/DailyLeet/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/amalshad/DailyLeet/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
