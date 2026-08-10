@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/amalshad/DailyLeet/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/amalshad/DailyLeet/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/amalshad/DailyLeet/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/amalshad/DailyLeet/tree/main/2235-add-two-integers/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/amalshad/DailyLeet/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/amalshad/DailyLeet/tree/main/0070-climbing-stairs/) | Easy |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +272,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amalshad/DailyLeet/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/amalshad/DailyLeet/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
