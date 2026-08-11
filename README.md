@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amalshad/DailyLeet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amalshad/DailyLeet/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2540-minimum-common-value](https://github.com/amalshad/DailyLeet/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/amalshad/DailyLeet/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/amalshad/DailyLeet/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amalshad/DailyLeet/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/amalshad/DailyLeet/tree/main/0125-valid-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalshad/DailyLeet/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2540-minimum-common-value](https://github.com/amalshad/DailyLeet/tree/main/2540-minimum-common-value/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amalshad/DailyLeet/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/amalshad/DailyLeet/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amalshad/DailyLeet/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2540-minimum-common-value](https://github.com/amalshad/DailyLeet/tree/main/2540-minimum-common-value/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/amalshad/DailyLeet/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/amalshad/DailyLeet/tree/main/3668-restore-finishing-order/) | Easy |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/amalshad/DailyLeet/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/amalshad/DailyLeet/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/amalshad/DailyLeet/tree/main/0704-binary-search/) | Easy |
+| [2540-minimum-common-value](https://github.com/amalshad/DailyLeet/tree/main/2540-minimum-common-value/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
