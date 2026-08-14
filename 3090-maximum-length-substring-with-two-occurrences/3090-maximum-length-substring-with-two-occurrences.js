@@ -12,7 +12,7 @@ var maximumLengthSubstring = function(s) {
 
         count[s[right]] = (count[s[right]] || 0) + 1;
 
-        // If current character appears more than 2 times
+        
         while (count[s[right]] > 2) {
             count[s[left]]--;
             left++;
