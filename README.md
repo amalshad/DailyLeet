@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/amalshad/DailyLeet/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amalshad/DailyLeet/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amalshad/DailyLeet/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/amalshad/DailyLeet/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amalshad/DailyLeet/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/amalshad/DailyLeet/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/amalshad/DailyLeet/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/amalshad/DailyLeet/tree/main/2540-minimum-common-value/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amalshad/DailyLeet/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amalshad/DailyLeet/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/amalshad/DailyLeet/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/amalshad/DailyLeet/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/amalshad/DailyLeet/tree/main/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amalshad/DailyLeet/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
