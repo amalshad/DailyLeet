@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/amalshad/DailyLeet/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/amalshad/DailyLeet/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/amalshad/DailyLeet/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/amalshad/DailyLeet/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/amalshad/DailyLeet/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amalshad/DailyLeet/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amalshad/DailyLeet/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/amalshad/DailyLeet/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/amalshad/DailyLeet/tree/main/1929-concatenation-of-array/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/amalshad/DailyLeet/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/amalshad/DailyLeet/tree/main/2974-minimum-number-game/) | Easy |
